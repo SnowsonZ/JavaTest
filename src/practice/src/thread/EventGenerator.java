@@ -1,4 +1,6 @@
-package thread;
+package practice.src.thread;
+
+import thread.IntGenerator;
 
 /**
  * author: snows

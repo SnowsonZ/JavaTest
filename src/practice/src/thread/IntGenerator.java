@@ -1,4 +1,4 @@
-package thread;
+package practice.src.thread;
 
 /**
  * author: snows
