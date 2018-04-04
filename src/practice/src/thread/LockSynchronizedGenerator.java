@@ -2,8 +2,6 @@ package practice.src.thread;
 
 import java.util.concurrent.locks.ReentrantLock;
 
-import thread.IntGenerator;
-
 /**
  * author: snows
  * created on: 2018/3/25 2:38
