@@ -1,7 +1,8 @@
-package practice.src.base;
+package com.snowson.practice.base;
 
-import practice.src.bean.Cart;
-import practice.src.bean.Product;
+
+import com.snowson.practice.bean.Cart;
+import com.snowson.practice.bean.Product;
 
 /**
  * @Author: Snowson

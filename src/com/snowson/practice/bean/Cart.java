@@ -1,4 +1,4 @@
-package practice.src.bean;
+package com.snowson.practice.bean;
 
 import java.util.ArrayList;
 import java.util.HashMap;

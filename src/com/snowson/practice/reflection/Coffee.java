@@ -1,4 +1,4 @@
-package practice.src.reflection;
+package com.snowson.practice.reflection;
 
 /**
  * author: snows

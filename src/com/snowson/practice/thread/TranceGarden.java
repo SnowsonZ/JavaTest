@@ -1,4 +1,4 @@
-package practice.src.thread;
+package com.snowson.practice.thread;
 
 import java.util.ArrayList;
 import java.util.List;

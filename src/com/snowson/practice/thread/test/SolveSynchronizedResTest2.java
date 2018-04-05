@@ -1,10 +1,10 @@
-package practice.src.thread.test;
+package com.snowson.practice.thread.test;
+
+import com.snowson.practice.thread.EventChecker;
+import com.snowson.practice.thread.LockSynchronizedGenerator;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-
-import practice.src.thread.EventChecker;
-import practice.src.thread.LockSynchronizedGenerator;
 
 /**
  * author: snows

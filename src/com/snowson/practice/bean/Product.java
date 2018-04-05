@@ -1,4 +1,4 @@
-package practice.src.bean;
+package com.snowson.practice.bean;
 
 /**
  * @Author: Snowson

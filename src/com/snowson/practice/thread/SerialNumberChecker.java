@@ -1,4 +1,4 @@
-package practice.src.thread;
+package com.snowson.practice.thread;
 
 public class SerialNumberChecker implements Runnable {
     private SerialNumberSet sns;

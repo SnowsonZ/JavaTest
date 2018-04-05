@@ -1,10 +1,11 @@
 package practice.src.thread.test;
 
+import com.snowson.practice.thread.EventChecker;
+import com.snowson.practice.thread.EventGenerator;
+
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-import practice.src.thread.EventChecker;
-import practice.src.thread.EventGenerator;
 
 /**
  * author: snows

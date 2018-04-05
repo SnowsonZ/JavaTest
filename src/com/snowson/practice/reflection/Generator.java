@@ -1,4 +1,4 @@
-package practice.src.reflection;
+package com.snowson.practice.reflection;
 
 import java.util.ArrayList;
 import java.util.Arrays;

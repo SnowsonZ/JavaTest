@@ -1,4 +1,4 @@
-package practice.src.base;
+package com.snowson.practice.base;
 
 import java.util.ArrayList;
 import java.util.Collection;

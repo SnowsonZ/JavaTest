@@ -1,4 +1,7 @@
-package practice.src.reflection;
+package com.snowson.practice.reflection;
+
+import com.snowson.practice.reflection.Americano;
+import com.snowson.practice.reflection.Coffee;
 
 import java.util.ArrayList;
 import java.util.Iterator;
