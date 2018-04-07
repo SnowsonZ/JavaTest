@@ -60,5 +60,14 @@ public class CollectionTest {
 
         System.out.println(100 ^ 123);
 
+        HashMap<String, String> hashMap = new HashMap<>();
+        hashMap.put("tempurature", "34.5`");
+        hashMap.put(null, null);
+        hashMap.put(null, null);
+        Set<Map.Entry<String, String>> entries1 = hashMap.entrySet();
+        for (Map.Entry<String, String> item : entries1) {
+            System.out.println("key" + item.getKey() + ", value" + item.getValue());
+        }
+
     }
 }
