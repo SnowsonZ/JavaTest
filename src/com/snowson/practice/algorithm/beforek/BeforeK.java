@@ -14,6 +14,7 @@ public class BeforeK {
             heap.addElement(i + 1, v);
         }
         heap.setMax(true);
+        heap.setSink(false);
         heap.printOrder();
         //取前K个最大的数
 //        heap.preK(6);
